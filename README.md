@@ -17,3 +17,6 @@ $ npm run start
 $ npm run generate
 ```
 
+![screencapture-localhost-3000-2022-06-23-00_56_16](https://user-images.githubusercontent.com/50771883/175105115-9ac0672c-64d8-4883-b2f9-e9bc4351b7b1.png)
+
+
