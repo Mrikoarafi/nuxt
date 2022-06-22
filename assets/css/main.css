@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'SFui';
+  font-style: light;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../font/SFui/SFUIText-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'SFui';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../font/SFui/SFUIText-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'SFui';
+  font-style: medium;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../font/SFui/SFUIText-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SFui';
+  font-style: bolder;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../font/SFui/SFUIText-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'SFui';
+  font-style: bold;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../font/SFui/SFUIText-Bold.ttf') format('truetype');
+}
+
+html {
+  font-family: SFui;
+}
